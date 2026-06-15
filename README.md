@@ -8,7 +8,7 @@ I'm a developer who enjoys building clean, practical, and user-focused solutions
 - 🌱 **Currently learning:** Advanced system design and cloud-native development
 - 👯 **Open to collaborate on:** Web apps, developer tools, and impactful products
 - 💬 **Ask me about:** JavaScript, Python, and project architecture
-- 📫 **Reach me at:** [GitHub @Tejasvi-Gupta](https://github.com/Tejasvi-Gupta)
+- 📫 **Reach me at:** [GitHub @Tejasvi-Gupta](https://github.com/Tejasvi-Gupta) · [LinkedIn](https://www.linkedin.com/in/tejasvi-gupta08) · [Instagram](https://www.instagram.com/_tejasvigp_/)
 - ⚡ **Fun fact:** I love turning ideas into polished products
 
 ## 🛠️ Skills
