@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Cloud Enthusiast | AI Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Flutter+Developer;AWS+Cloud+Enthusiast;AI+%26+Software+Engineering;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Flutter+Developer;AWS+Cloud+Enthusiast;AI+%26+Softwar[...]
 </p>
 
 ---
@@ -131,6 +131,12 @@ Oracle SQL
 <p align="left">
 <a href="https://github.com/Tejasvi-Gupta" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+<a href="https://www.linkedin.com/in/tejasvi-gupta08" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="https://www.instagram.com/_tejasvigp_" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
 </p>
 
