@@ -1,4 +1,3 @@
-````md
 <h1 align="center">Hi 👋, I'm Tejasvi Gupta</h1>
 
 <h3 align="center">Software Engineer | Cloud Enthusiast | AI Explorer</h3>
@@ -107,7 +106,7 @@ Oracle SQL
 🤖 Artificial Intelligence
 📊 DSA & Competitive Programming
 🏗️ System Design
-````
+```
 
 ---
 
@@ -150,4 +149,3 @@ Oracle SQL
 <p align="center">
 ⭐ Thanks for visiting my profile!
 </p>
-```
