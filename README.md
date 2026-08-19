@@ -88,14 +88,30 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tejasvi-Gupta&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasvi-Gupta&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tejasvi-Gupta&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; align-items: flex-start;">
+  <div style="flex: 1 1 320px; max-width: 520px; min-width: 280px;">
+    <a href="https://github.com/Tejasvi-Gupta" aria-label="Visit Tejasvi Gupta's GitHub profile">
+      <img src="https://github-readme-stats.vercel.app/api?username=Tejasvi-Gupta&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="Tejasvi Gupta GitHub profile stats" aria-label="Tejasvi Gupta GitHub profile stats" />
+    </a>
+    <br />
+    <a href="https://github.com/Tejasvi-Gupta" aria-label="View Tejasvi Gupta's top programming languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasvi-Gupta&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" alt="Tejasvi Gupta top programming languages" aria-label="Tejasvi Gupta top programming languages" />
+    </a>
+  </div>
+  <div style="flex: 1 1 320px; max-width: 520px; min-width: 280px;">
+    <a href="https://github.com/Tejasvi-Gupta" aria-label="View Tejasvi Gupta's GitHub trophies">
+      <img src="https://github-profile-trophy.vercel.app/?username=Tejasvi-Gupta&theme=onedark&no-frame=true&no-bg=true" alt="Tejasvi Gupta GitHub trophies" aria-label="Tejasvi Gupta GitHub trophies" />
+    </a>
+    <div align="left" style="margin-top: 12px; padding: 14px; border: 1px solid #30363d; border-radius: 10px;">
+      <strong>Featured Projects</strong>
+      <ul>
+        <li><a href="https://github.com/Tejasvi-Gupta/Attendance_system">Attendance_system</a> — Smart attendance automation with student/teacher dashboards.</li>
+        <li><a href="https://github.com/Tejasvi-Gupta/Final_Portfolio">Final_Portfolio</a> — Personal portfolio with responsive design and project showcase.</li>
+        <li><a href="https://github.com/Tejasvi-Gupta/Project-Name">Project Name</a> — Add a short description for your next featured project.</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 ---
 
@@ -103,14 +119,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejasvi-Gupta&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tejasvi-Gupta&theme=onedark&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
