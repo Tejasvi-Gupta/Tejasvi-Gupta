@@ -3,7 +3,11 @@
 <h3 align="center">Software Engineer | Cloud Enthusiast | AI Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Flutter+Developer;AWS+Cloud+Enthusiast;AI+%26+Software+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student;Flutter+Developer;AWS+Cloud+Enthusiast;AI+%26+Software+Engineering+Learner" alt="Typing intro" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Theme-Warm%20Brown-8B5E3C?style=for-the-badge" alt="Warm Brown Theme" />
 </p>
 
 ---
@@ -36,27 +40,23 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,dart,javascript,java,sql" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,dart,javascript,java,sql" alt="Languages" />
 </p>
 
 ### Frameworks & Technologies
-
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,firebase,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,firebase,html,css" alt="Frameworks and Technologies" />
 </p>
 
 ### Databases
-
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Databases" />
 </p>
 
 ### Cloud & DevOps
-
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux" alt="Cloud and DevOps" />
 </p>
 
 ---
@@ -64,22 +64,20 @@
 ## 📌 Featured Projects
 
 ### 🎯 Smart Attendance System
-
 - **Tech Stack:** Flutter, Node.js, MongoDB, Firebase
 - **Features:** Attendance automation, Student dashboard, Teacher dashboard, Secure attendance management
 - **Impact:** Real-world educational use case for automated attendance tracking
 
-**Repository:** [GitHub Link](https://github.com/Tejasvi-Gupta)
+**Repository:** [Attendance_system](https://github.com/Tejasvi-Gupta/Attendance_system)
 
 ---
 
 ### 🌐 Personal Portfolio Website
-
 - **Tech Stack:** React, Tailwind CSS, Responsive Design
 - **Features:** Responsive UI, Modern design, Project showcase, Contact integration
 - **Purpose:** Professional portfolio to showcase projects and skills
 
-**Repository:** [GitHub Link](https://github.com/Tejasvi-Gupta)
+**Repository:** [Final_Portfolio](https://github.com/Tejasvi-Gupta/Final_Portfolio)
 
 ---
 
@@ -95,13 +93,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tejasvi-Gupta&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasvi-Gupta&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tejasvi-Gupta&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasvi-Gupta&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tejasvi-Gupta&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Tejasvi-Gupta&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
@@ -117,14 +114,14 @@
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tejasvi-Gupta&theme=tokyonight&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tejasvi-Gupta&theme=onedark&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-```
+```text
 📱 Flutter Development
 ☁️ AWS Cloud Computing
 🤖 Artificial Intelligence & ML
@@ -175,9 +172,8 @@
 <p align="center">
 
 [<img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />](https://github.com/Tejasvi-Gupta)
-[<img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://www.linkedin.com/in/tejasvi-gupta08)
-[<img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />](https://twitter.com)
-[<img align="center" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />](https://www.instagram.com/_tejasvigp_)
+[<img align="center" src="https://img.shields.io/badge/LinkedIn-8B5E3C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://www.linkedin.com/in/tejasvi-gupta08)
+[<img align="center" src="https://img.shields.io/badge/Instagram-8B5E3C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />](https://www.instagram.com/_tejasvigp_)
 
 </p>
 
@@ -198,7 +194,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tejasvi-Gupta&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Tejasvi-Gupta&label=Profile%20Views&color=8B5E3C&style=flat" alt="Profile views"/>
 </p>
 
 <p align="center">
