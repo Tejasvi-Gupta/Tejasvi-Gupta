@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Cloud Enthusiast | AI Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student;Flutter+Developer;AWS+Cloud+Enthusiast;AI+%26+Software+Engineering+Learner" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student;Flutter+Developer;AWS+Cloud+Enthusiast;AI+%26+Softwar[...]" />
 </p>
 
 ---
@@ -89,12 +89,46 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tejasvi-Gupta&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasvi-Gupta&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages" />
-</p>
+  <style>
+    /* Responsive container (works in GitHub README) */
+    .rg-container{display:flex;flex-wrap:wrap;gap:18px;justify-content:center;align-items:flex-start;max-width:880px;margin:0 auto}
+    .rg-column{flex:1 1 320px;min-width:280px;max-width:420px;background:transparent}
+    .rg-card{background:#0f1724;padding:16px;border-radius:10px;color:#cbd5e1}
+    .proj-list{list-style:none;padding:0;margin:0}
+    .proj-item{margin-bottom:8px}
+    .proj-link{color:#60a5fa;text-decoration:none}
+  </style>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tejasvi-Gupta&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <div class="rg-container">
+    <!-- Left column: Stats -->
+    <div class="rg-column">
+      <div class="rg-card" style="text-align:center">
+        <a href="https://github.com/Tejasvi-Gupta" aria-label="GitHub stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=Tejasvi-Gupta&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub stats for Tejasvi-Gupta" />
+        </a>
+        <br/>
+        <a href="https://github.com/Tejasvi-Gupta" aria-label="Top languages">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasvi-Gupta&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages for Tejasvi-Gupta" />
+        </a>
+      </div>
+    </div>
+
+    <!-- Right column: Trophies + Projects -->
+    <div class="rg-column">
+      <div class="rg-card" style="text-align:center">
+        <a href="https://github.com/Tejasvi-Gupta" aria-label="GitHub trophies">
+          <img src="https://github-profile-trophy.vercel.app/?username=Tejasvi-Gupta&theme=onedark&no-frame=true&no-bg=true" alt="GitHub trophies for Tejasvi-Gupta" />
+        </a>
+        <hr style="border:none;border-top:1px solid rgba(255,255,255,0.06);margin:12px 0"/>
+        <h4 style="margin:8px 0 6px;color:#e6edf3">Featured Projects</h4>
+        <ul class="proj-list">
+          <li class="proj-item"><a class="proj-link" href="https://github.com/Tejasvi-Gupta/Attendance_system">Attendance_system</a> — Flutter, Node.js, MongoDB. Attendance automation with student & teacher dashboards.</li>
+          <li class="proj-item"><a class="proj-link" href="https://github.com/Tejasvi-Gupta/Final_Portfolio">Final_Portfolio</a> — React + Tailwind. Responsive personal portfolio showcasing projects.</li>
+          <li class="proj-item"><a class="proj-link" href="#">Project Name</a> — Short description (edit this to add another highlighted project).</li>
+        </ul>
+      </div>
+    </div>
+  </div>
 </p>
 
 ---
