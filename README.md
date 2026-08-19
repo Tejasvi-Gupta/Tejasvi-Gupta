@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student;Flutter+Developer;AWS+Cloud+Enthusiast;AI+%26+Software+Engineering+Learner" alt="Typing intro" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Theme-Warm%20Brown-8B5E3C?style=for-the-badge" alt="Warm Brown Theme" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -172,8 +168,8 @@
 <p align="center">
 
 [<img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />](https://github.com/Tejasvi-Gupta)
-[<img align="center" src="https://img.shields.io/badge/LinkedIn-8B5E3C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://www.linkedin.com/in/tejasvi-gupta08)
-[<img align="center" src="https://img.shields.io/badge/Instagram-8B5E3C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />](https://www.instagram.com/_tejasvigp_)
+[<img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://www.linkedin.com/in/tejasvi-gupta08)
+[<img align="center" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />](https://www.instagram.com/_tejasvigp_)
 
 </p>
 
@@ -194,7 +190,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tejasvi-Gupta&label=Profile%20Views&color=8B5E3C&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Tejasvi-Gupta&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 <p align="center">
